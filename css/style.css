@@ -12,17 +12,17 @@
 }
 
 @font-face {
-    font-family: futura;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
     src: url(../font/futur.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: futuraMedium;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
     src: url(../font/futura\ medium\ bt.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: boldfutura;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
     src: url(../font/Futura\ Bold\ font.ttf) format('truetype');
 }
 
@@ -86,31 +86,31 @@ body {
     }
 
     .header-futura {
-        font-family: futura italic;
+        font-family: Futura italic;
         font-size: 3rem;
         color: var(--coktua);
     }
 
     .header-futura-20 {
-        font-family: futura;
+        font-family: Futura;
         color: var(--coktua);
         font-size: 20px;
     }
 
     .header-futura-26 {
-        font-family: futura;
+        font-family: Futura;
         color: var(--coktua);
         font-size: 26px;
     }
 
     .header-futura-34 {
-        font-family: futura;
+        font-family: Futura;
         color: var(--coktua);
         font-size: 34px;
     }
     
     .header-futura-bold {
-        font-family: boldfutura;
+        font-family: Futura;
         color: var(--coktua);
     }
     .header-futura-medium-34 {
@@ -121,65 +121,65 @@ body {
 
 
     .header-futura-20-bold {
-        font-family: boldfutura;
+        font-family: Futura;
         color: var(--coktua);
         font-size: 20px;
     }
 
     
     .header-futura-bold-22 {
-        font-family: boldfutura;
+        font-family: Futura;
         font-size: 22px;
         color: var(--coktua);
     }
     
     .header-futura-26-bold {
-        font-family: boldfutura;
+        font-family: Futura;
         color: var(--coktua);
         font-size: 27px;
     }
 
     .header-futura-34-bold {
-        font-family: boldfutura;
+        font-family: Futura;
         color: var(--coktua);
         font-size: 35px;
     }
     .text-16 {
-        font-family: futura;
+        font-family: Futura;
         color: white;
         font-size: 16px;
     }
 
     .text-20 {
-        font-family: futura;
+        font-family: Futura;
         color: white;
         font-size: 20px;
     }
 
     .text-22 {
-        font-family: futura;
+        font-family: Futura;
         color: white;
         font-size: 22px;
     }
 
     .text-24 {
-        font-family: futura;
+        font-family: Futura;
         color: white;
         font-size: 24px;
     }
 
     .text-26 {
-        font-family: futura;
+        font-family: Futura;
         font-size: 24px;
     }
     
     .text-34 {
-        font-family: futura;
+        font-family: Futura;
         font-size: 34px;
     }
 
     .text-19-brown {
-        font-family: futura;
+        font-family: Futura;
         color: var(--coktua);
         font-size: 25px;
     }
@@ -273,10 +273,10 @@ body {
 
     .btn-tosca {
         width: 13.333vh;
-        height: 3.2rem;
+        height: 5vh;
         background-color: var(--Tosca);
         border-radius: 2rem;
-        padding: 1.481vh 3.556vh;
+        padding: 1.6vh 3vh;
     }
 
     .container {
@@ -977,11 +977,11 @@ body {
     }
 
     .btn-tosca {
-        width: 9rem;
-        height: 3.2rem;
+        width: 8vw;
+        height: 5vh;
         background-color: var(--Tosca);
         border-radius: 2rem;
-        padding: 1rem 2.4rem;
+        padding: 1.5vh 2vw;
     }
 
     .container {
@@ -1680,10 +1680,10 @@ body {
 
     .btn-tosca {
         width: 10vw;
-        height: 7vh;
+        height: 6vh;
         background-color: var(--Tosca);
         border-radius: 2rem;
-        padding: 1rem 2.5vw;
+        padding: 2vh 2.5vw;
     }
 
     .container {
@@ -3081,11 +3081,11 @@ body {
     }
 
     .btn-tosca {
-        width: 9rem;
-        height: 3.2rem;
+        width: 10vw;
+        height: 5vh;
         background-color: var(--Tosca);
         border-radius: 2rem;
-        padding: 1rem 2.4rem;
+        padding: 1.5vh 2.3vw;
     }
 
     .container {
