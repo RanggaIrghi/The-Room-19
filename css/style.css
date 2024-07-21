@@ -356,21 +356,23 @@ body {
     }
 
     .service-icon {
-        margin-left: 1.4rem;
+        margin-left: 2vw;
     }
 
     .service-icon img {
-        width: 100vw;
-        height: 100vh;
+        width: 13vw;
         object-fit: contain;
     }
 
     .service-title {
-        width: 12rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 11vw;
+        height: 4vh;
         position: absolute;
-        margin-top: 7rem;
-        margin-left: 3rem;
-        padding: 8px;
+        margin-top: 13vh;
+        margin-left: 2vw;
         border-radius: 1.5rem;
         background-color: var(--yellow);
         text-align: center;
@@ -1054,21 +1056,19 @@ body {
     }
 
     .service-icon {
-        margin-left: 1.4rem;
+        margin-left: 2vw;
     }
 
     .service-icon img {
-        width: 100vw;
-        height: 100vh;
+        width: 16vw;
         object-fit: contain;
     }
 
     .service-title {
-        width: 12rem;
+        width: 12vw;
         position: absolute;
-        margin-top: 7rem;
-        margin-left: 3rem;
-        padding: 8px;
+        margin-top: 13vh;
+        margin-left: 2vw;
         border-radius: 1.5rem;
         background-color: var(--yellow);
         text-align: center;
@@ -1762,17 +1762,15 @@ body {
     }
 
     .service-icon img {
-        width: 100vw;
-        height: 100vh;
+        width: 18vw;
         object-fit: contain;
     }
 
     .service-title {
-        width: 12rem;
+        width: 15vw;
         position: absolute;
-        margin-top: 7rem;
-        margin-left: 3rem;
-        padding: 8px;
+        margin-top: 13vh;
+        margin-left: 2vw;
         border-radius: 1.5rem;
         background-color: var(--yellow);
         text-align: center;
@@ -2450,7 +2448,6 @@ body {
         justify-content: center;
         align-items: center;
         height: 84vh;
-        gap: 3rem;
     }
 
     .service-card {
@@ -2462,21 +2459,19 @@ body {
     }
 
     .service-icon {
-        margin-left: 1.4rem;
+        margin-left: 2vw;
     }
 
     .service-icon img {
-        width: 100vw;
-        height: 100vh;
+        width: 20vw;
         object-fit: contain;
     }
 
     .service-title {
-        width: 12rem;
+        width: 15vw;
         position: absolute;
-        margin-top: 7rem;
-        margin-left: 3rem;
-        padding: 8px;
+        margin-top: 13vh;
+        margin-left: 2vw;
         border-radius: 1.5rem;
         background-color: var(--yellow);
         text-align: center;
@@ -3176,7 +3171,7 @@ body {
     }
 
     .service-title {
-        width: 12rem;
+        width: 15vw;
         position: absolute;
         margin-top: 12vh;
         margin-left: 3.4vw;
