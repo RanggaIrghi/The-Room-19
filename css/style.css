@@ -281,10 +281,6 @@ body {
         background-color: var(--Tosca);
     }
 
-    .btn-tosca {
-        margin-top: 0.5vh;
-    }
-
     .container {
         display: flex;
         justify-content: center;
@@ -992,10 +988,6 @@ body {
         background-color: var(--Tosca);
     }
 
-    .btn-tosca {
-        margin-top: 0.5vh;
-    }
-
     .container {
         display: flex;
         justify-content: center;
@@ -1698,10 +1690,6 @@ body {
         align-items: center;
         border-radius: 2rem;
         background-color: var(--Tosca);
-    }
-
-    .btn-tosca {
-        margin-top: 0.5vh;
     }
 
     .container {
@@ -2407,10 +2395,6 @@ body {
         background-color: var(--Tosca);
     }
 
-    .btn-tosca {
-        margin-top: 0.5vh;
-    }
-
     .container {
         display: flex;
         justify-content: center;
@@ -3112,10 +3096,6 @@ body {
         align-items: center;
         border-radius: 2rem;
         background-color: var(--Tosca);
-    }
-
-    .btn-tosca {
-        margin-top: 0.5vh;
     }
 
     .container {
