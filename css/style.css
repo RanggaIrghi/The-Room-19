@@ -271,12 +271,18 @@ body {
         margin: 32vh 9vh ;
     }
 
-    .btn-tosca {
-        width: 13.333vh;
+    .btn-container {
+        width: 9vw;
         height: 5vh;
-        background-color: var(--Tosca);
+        display: flex;
+        justify-content: center;
+        align-items: center;
         border-radius: 2rem;
-        padding: 1.6vh 3vh;
+        background-color: var(--Tosca);
+    }
+
+    .btn-tosca {
+        margin-top: 0.5vh;
     }
 
     .container {
@@ -976,12 +982,18 @@ body {
         margin: 16% 7% ;
     }
 
-    .btn-tosca {
-        width: 8vw;
+    .btn-container {
+        width: 9vw;
         height: 5vh;
-        background-color: var(--Tosca);
+        display: flex;
+        justify-content: center;
+        align-items: center;
         border-radius: 2rem;
-        padding: 1.5vh 2vw;
+        background-color: var(--Tosca);
+    }
+
+    .btn-tosca {
+        margin-top: 0.5vh;
     }
 
     .container {
@@ -1678,12 +1690,18 @@ body {
         margin: 16% 4.5vw ;
     }
 
-    .btn-tosca {
-        width: 10vw;
-        height: 6vh;
-        background-color: var(--Tosca);
+    .btn-container {
+        width: 9vw;
+        height: 5vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         border-radius: 2rem;
-        padding: 2vh 2.5vw;
+        background-color: var(--Tosca);
+    }
+
+    .btn-tosca {
+        margin-top: 0.5vh;
     }
 
     .container {
@@ -2379,12 +2397,18 @@ body {
         margin-top: 30vh;
     }
 
-    .btn-tosca {
-        width: 9rem;
-        height: 3.2rem;
-        background-color: var(--Tosca);
+    .btn-container {
+        width: 9vw;
+        height: 5vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         border-radius: 2rem;
-        padding: 1rem 2.4rem;
+        background-color: var(--Tosca);
+    }
+
+    .btn-tosca {
+        margin-top: 0.5vh;
     }
 
     .container {
@@ -3080,12 +3104,18 @@ body {
         margin-top: 30vh;
     }
 
-    .btn-tosca {
-        width: 10vw;
+    .btn-container {
+        width: 9vw;
         height: 5vh;
-        background-color: var(--Tosca);
+        display: flex;
+        justify-content: center;
+        align-items: center;
         border-radius: 2rem;
-        padding: 1.5vh 2.3vw;
+        background-color: var(--Tosca);
+    }
+
+    .btn-tosca {
+        margin-top: 0.5vh;
     }
 
     .container {
