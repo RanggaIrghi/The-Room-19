@@ -12,18 +12,8 @@
 }
 
 @font-face {
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
-    src: url(../font/futur.ttf) format('truetype');
-}
-
-@font-face {
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
-    src: url(../font/futura\ medium\ bt.ttf) format('truetype');
-}
-
-@font-face {
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
-    src: url(../font/Futura\ Bold\ font.ttf) format('truetype');
+    font-family: Futura;
+      src: local('Futura Std');
 }
 
 * {
