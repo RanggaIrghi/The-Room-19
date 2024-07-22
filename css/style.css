@@ -11,10 +11,12 @@
     src: url(../font/Heavitas.ttf) format('truetype');
 }
 
-@font-face {
-    font-family: Futura;
-      src: local('Futura Std');
-}
+.jost-text {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
 
 * {
     margin: 0;
@@ -76,100 +78,151 @@ body {
     }
 
     .header-futura {
-        font-family: Futura italic;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         font-size: 3rem;
         color: var(--coktua);
     }
 
     .header-futura-20 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
         font-size: 20px;
     }
 
     .header-futura-26 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
         font-size: 26px;
     }
 
     .header-futura-34 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
         font-size: 34px;
     }
     
     .header-futura-bold {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
     }
     .header-futura-medium-34 {
-        font-family: futuraMedium;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         font-size: 34px;
         color: var(--coktua);
     }
 
 
     .header-futura-20-bold {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
         font-size: 20px;
     }
 
     
     .header-futura-bold-22 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         font-size: 22px;
         color: var(--coktua);
     }
     
     .header-futura-26-bold {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
         font-size: 27px;
     }
 
     .header-futura-34-bold {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
         font-size: 35px;
     }
     .text-16 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: white;
         font-size: 16px;
     }
 
     .text-20 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: white;
         font-size: 20px;
     }
 
     .text-22 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: white;
         font-size: 22px;
     }
 
     .text-24 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: white;
         font-size: 24px;
     }
 
     .text-26 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         font-size: 24px;
     }
     
     .text-34 {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         font-size: 34px;
     }
 
     .text-19-brown {
-        font-family: Futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
         font-size: 25px;
     }
@@ -189,12 +242,18 @@ body {
     }
 
     .text {
-        font-family: futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--white);
     }
 
     .text-brown {
-        font-family: futura;
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
         color: var(--coktua);
     }
 
@@ -782,25 +841,21 @@ body {
     }
 
     .header-futura {
-        font-family: futura italic;
         font-size: 3rem;
         color: var(--coktua);
     }
 
     .header-futura-20 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 20px;
     }
 
     .header-futura-26 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 26px;
     }
 
     .header-futura-34 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 28px;
     }
@@ -810,7 +865,6 @@ body {
         color: var(--coktua);
     }
     .header-futura-medium-34 {
-        font-family: futuraMedium;
         font-size: 34px;
         color: var(--coktua);
     }
@@ -839,40 +893,33 @@ body {
         font-size: 28px;
     }
     .text-16 {
-        font-family: futura;
         color: white;
         font-size: 16px;
     }
 
     .text-20 {
-        font-family: futura;
         color: white;
         font-size: 18px;
     }
 
     .text-22 {
-        font-family: futura;
         color: white;
         font-size: 22px;
     }
 
     .text-26 {
-        font-family: futura;
         font-size: 20px;
     }
 
     .text-30 {
-        font-family: futura;
         font-size: 22px;
     }
     
     .text-34 {
-        font-family: futura;
         font-size: 25px;
     }
 
     .text-19-brown {
-        font-family: futura;
         color: var(--coktua);
         font-size: 25px;
     }
@@ -892,12 +939,10 @@ body {
     }
 
     .text {
-        font-family: futura;
         color: var(--white);
     }
 
     .text-brown {
-        font-family: futura;
         color: var(--coktua);
     }
 
@@ -1486,25 +1531,21 @@ body {
     }
 
     .header-futura {
-        font-family: futura italic;
         font-size: 3rem;
         color: var(--coktua);
     }
 
     .header-futura-20 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 20px;
     }
 
     .header-futura-26 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 26px;
     }
 
     .header-futura-34 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 28px;
     }
@@ -1514,7 +1555,6 @@ body {
         color: var(--coktua);
     }
     .header-futura-medium-34 {
-        font-family: futuraMedium;
         font-size: 34px;
         color: var(--coktua);
     }
@@ -1543,40 +1583,33 @@ body {
         font-size: 28px;
     }
     .text-16 {
-        font-family: futura;
         color: white;
         font-size: 16px;
     }
 
     .text-20 {
-        font-family: futura;
         color: white;
         font-size: 18px;
     }
 
     .text-22 {
-        font-family: futura;
         color: white;
         font-size: 22px;
     }
 
     .text-26 {
-        font-family: futura;
         font-size: 18.5px;
     }
 
     .text-30 {
-        font-family: futura;
         font-size: 22px;
     }
     
     .text-34 {
-        font-family: futura;
         font-size: 25px;
     }
 
     .text-19-brown {
-        font-family: futura;
         color: var(--coktua);
         font-size: 25px;
     }
@@ -1596,12 +1629,10 @@ body {
     }
 
     .text {
-        font-family: futura;
         color: var(--white);
     }
 
     .text-brown {
-        font-family: futura;
         color: var(--coktua);
     }
 
@@ -2188,25 +2219,21 @@ body {
     }
 
     .header-futura {
-        font-family: futura italic;
         font-size: 3rem;
         color: var(--coktua);
     }
 
     .header-futura-20 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 20px;
     }
 
     .header-futura-26 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 26px;
     }
 
     .header-futura-34 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 22px;
     }
@@ -2216,7 +2243,6 @@ body {
         color: var(--coktua);
     }
     .header-futura-medium-34 {
-        font-family: futuraMedium;
         font-size: 34px;
         color: var(--coktua);
     }
@@ -2245,40 +2271,33 @@ body {
         font-size: 28px;
     }
     .text-16 {
-        font-family: futura;
         color: white;
         font-size: 16px;
     }
 
     .text-20 {
-        font-family: futura;
         color: white;
         font-size: 18px;
     }
 
     .text-22 {
-        font-family: futura;
         color: white;
         font-size: 22px;
     }
 
     .text-26 {
-        font-family: futura;
         font-size: 18px;
     }
 
     .text-30 {
-        font-family: futura;
         font-size: 22px;
     }
     
     .text-34 {
-        font-family: futura;
         font-size: 20px;
     }
 
     .text-19-brown {
-        font-family: futura;
         color: var(--coktua);
         font-size: 25px;
     }
@@ -2298,12 +2317,10 @@ body {
     }
 
     .text {
-        font-family: futura;
         color: var(--white);
     }
 
     .text-brown {
-        font-family: futura;
         color: var(--coktua);
     }
 
@@ -2893,25 +2910,21 @@ body {
     }
 
     .header-futura {
-        font-family: futura italic;
         font-size: 3rem;
         color: var(--coktua);
     }
 
     .header-futura-20 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 20px;
     }
 
     .header-futura-26 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 26px;
     }
 
     .header-futura-34 {
-        font-family: futura;
         color: var(--coktua);
         font-size: 22px;
     }
@@ -2921,7 +2934,6 @@ body {
         color: var(--coktua);
     }
     .header-futura-medium-34 {
-        font-family: futuraMedium;
         font-size: 34px;
         color: var(--coktua);
     }
@@ -2950,40 +2962,33 @@ body {
         font-size: 28px;
     }
     .text-16 {
-        font-family: futura;
         color: white;
         font-size: 16px;
     }
 
     .text-20 {
-        font-family: futura;
         color: white;
         font-size: 18px;
     }
 
     .text-22 {
-        font-family: futura;
         color: white;
         font-size: 22px;
     }
 
     .text-26 {
-        font-family: futura;
         font-size: 16px;
     }
 
     .text-30 {
-        font-family: futura;
         font-size: 22px;
     }
     
     .text-34 {
-        font-family: futura;
         font-size: 20px;
     }
 
     .text-19-brown {
-        font-family: futura;
         color: var(--coktua);
         font-size: 25px;
     }
@@ -3003,12 +3008,10 @@ body {
     }
 
     .text {
-        font-family: futura;
         color: var(--white);
     }
 
     .text-brown {
-        font-family: futura;
         color: var(--coktua);
     }
 
