@@ -11,12 +11,8 @@
     src: url(../font/Heavitas.ttf) format('truetype');
 }
 
-@font-face {
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
-    src: url(../font//futura\ medium\ bt.ttf); 
-}
-
 * {
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
