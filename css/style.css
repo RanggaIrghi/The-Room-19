@@ -25,11 +25,17 @@ html {
 }
 
 body {
-    font-family: 'Gilroy', sans-serif !important;
-    font-weight: 900;
+    font-family: Gilroy-Medium;
     background-color: var(--cokmud);
 }
 
+table {
+    margin-left: 5vw;
+    border-collapse: collapse;
+}
+td {
+    padding: 5px;
+}
 /* (1920x1080) Full HD Display */
 @media  screen and (max-width: 1920px) {
     /* insert styles here */
@@ -118,6 +124,7 @@ body {
     }
 
     .header-futura-34-bold {
+        font-family: 'Gilroy', sans-serif !important;
         color: var(--coktua);
         font-size: 35px;
     }
@@ -511,7 +518,7 @@ body {
     }
     
     .content-aktv {
-        height: 85vh;
+        height: 86vh;
         display: flex;
         justify-content: center;
         align-items: end;
@@ -525,6 +532,12 @@ body {
         align-items: center;
         height: 84%;
         gap: 3rem;
+    }
+
+    .card-aktv .service-card .service-title {
+        width: 10vw;
+        margin-top: 16vh;
+        margin-left: 2vw;
     }
 
     /* end */
@@ -1192,7 +1205,7 @@ body {
     }
 
     .content-aktv {
-        height: 84vh;
+        height: 87vh;
         display: flex;
         justify-content: center;
         align-items: end;
@@ -1206,6 +1219,12 @@ body {
         align-items: center;
         height: 83vh;
         gap: 2rem;
+    }
+
+    .card-aktv .service-card .service-title {
+        width: 13vw;
+        margin-top: 17vh;
+        margin-left: 2vw;
     }
 
     /* end */
@@ -1888,7 +1907,7 @@ body {
     }
 
     .content-aktv {
-        height: 84vh;
+        height: 86vh;
         display: flex;
         justify-content: center;
         align-items: end;
@@ -1902,6 +1921,12 @@ body {
         align-items: center;
         height: 83vh;
         gap: 2rem;
+    }
+
+    .card-aktv .service-card .service-title {
+        width: 15vw;
+        margin-top: 17vh;
+        margin-left: 2vw;
     }
 
     /* end */
@@ -2579,7 +2604,7 @@ body {
     }
 
     .content-aktv {
-        height: 84vh;
+        height: 86vh;
         display: flex;
         justify-content: center;
         align-items: end;
@@ -2594,6 +2619,13 @@ body {
         height: 83vh;
         gap: 2rem;
     }
+
+    .card-aktv .service-card .service-title {
+        width: 15vw;
+        margin-top: 17vh;
+        margin-left: 2vw;
+    }
+
 
     /* end */
 
@@ -3273,7 +3305,7 @@ body {
     }
 
     .content-aktv {
-        height: 84vh;
+        height: 85vh;
         display: flex;
         justify-content: center;
         align-items: end;
@@ -3294,8 +3326,9 @@ body {
     }
 
     .card-aktv .service-card .service-title {
-        margin-top: 13vh;
-        margin-left: 3vw;
+        width: 15vw;
+        margin-top: 17vh;
+        margin-left: 2vw;
     }
 
     /* end */
