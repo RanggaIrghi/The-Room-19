@@ -31,6 +31,7 @@ body {
 
 table {
     margin-left: 5vw;
+    width: auto;
     border-collapse: collapse;
 }
 td {
@@ -463,7 +464,7 @@ td {
     .container-flts .row .content-flts {
         text-align: center;
         margin-top: 5%;
-        margin-right: 45%;
+        margin-right: 47vw;
     }
 
     .grid-container {
@@ -1151,7 +1152,7 @@ td {
     .container-flts .row .content-flts {
         text-align: center;
         margin-top: 5%;
-        margin-right: 45%;
+        margin-right: 50vw;
     }
 
     .grid-container {
@@ -1357,6 +1358,7 @@ td {
         justify-content: space-between;
         align-items: center;    
         padding: 0 5.5rem;
+        gap: 10vw;
     }
 
     .grid-content-why-txt {
@@ -1853,7 +1855,7 @@ td {
     .container-flts .row .content-flts {
         text-align: center;
         margin-top: 5%;
-        margin-right: 45%;
+        margin-right: 44vw;
     }
 
     .grid-container {
@@ -2059,6 +2061,7 @@ td {
         justify-content: space-between;
         align-items: center;    
         padding: 0 5.5rem;
+        gap: 10vw;
     }
 
     .grid-content-why-txt {
@@ -2757,6 +2760,7 @@ td {
         justify-content: space-between;
         align-items: center;    
         padding: 0 5.5rem;
+        gap: 12vw;
     }
 
     .grid-content-why-txt {
