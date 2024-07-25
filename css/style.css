@@ -244,7 +244,7 @@ td {
 
     .hero-content{
         display: inline-block;
-        margin: 32vh 9vh ;
+        margin: 32vh 5.3vw;
     }
 
     .btn-container {
@@ -944,7 +944,7 @@ td {
 
     .hero-content{
         display: inline-block;
-        margin: 16% 7% ;
+        margin: 32vh 6vw ;
     }
 
     .btn-container {
@@ -1642,7 +1642,7 @@ td {
 
     .hero-content{
         display: inline-block;
-        margin: 16% 4.5vw ;
+        margin: 30vh 7.1vw ;
     }
 
     .btn-container {
@@ -2339,7 +2339,7 @@ td {
     }
 
     .hero-content{
-        margin-top: 30vh;
+        margin: 30vh 7.5vw;
     }
 
     .btn-container {
@@ -3037,7 +3037,7 @@ td {
     }
 
     .hero-content{
-        margin-top: 30vh;
+        margin: 30vh 7.9vw;
     }
 
     .btn-container {
