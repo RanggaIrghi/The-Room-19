@@ -3465,6 +3465,7 @@ td {
         justify-content: space-between;
         align-items: center;    
         padding: 0 5.5rem;
+        gap: 5vw;
     }
 
     .grid-content-why-txt {
